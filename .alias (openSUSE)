@@ -1,0 +1,8 @@
+alias zy="sudo zypper"
+alias CODE="cd /mnt/data/Code"
+alias KULIAH="cd /mnt/data/KULIAHAN"
+alias py="python3"
+alias ls="lsd"
+alias shutdown="sudo shutdown now"
+alias reboot="sudo shutdown -r now"
+alias mocp="mocp -T nightshade"
